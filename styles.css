@@ -10,6 +10,12 @@ body{
     margin:0px;
 }
 
+/* spaces or padding */
+.margin-md{
+    margin: zero;
+    padding: 2rem 2rem;
+}
+
 hr{
     margin: 2rem 0rem;
 }
@@ -116,6 +122,11 @@ margin: auto;
     text-align: center;
     color: white;
     border-top-right-radius: 1rem;
+}
+
+.footer .footer-header{
+    font-weight: bold;
+    font-size: large;
 }
 
 /* links inside footer should have color white */
